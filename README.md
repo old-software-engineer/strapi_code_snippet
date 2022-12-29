@@ -30,10 +30,8 @@ Admin must select at least 1 parent category from the given parent categories li
 # Screenshots
 
 - Dashboard
-![Dashboard](https://user-images.githubusercontent.com/15182066/209615598-1de41133-c1be-44a3-8f3d-0d5017e21653.png)
------
-- Writing content
-![Writing content](https://user-images.githubusercontent.com/15182066/209615743-ad0963cf-66ba-478d-a207-2747258a0a5b.png)
------
-- Content type builder
-![Content type builder](https://user-images.githubusercontent.com/15182066/209615882-acc53519-525d-4521-a27a-3c5528fe98f7.png)
+![admin-panel-homepage 5e50b506](https://user-images.githubusercontent.com/15182066/209935458-4bf600bd-74af-4398-a65f-d25bfbf85fcb.png)
+----
+- Content builder
+![a](https://user-images.githubusercontent.com/15182066/209935530-6354912f-460b-418f-996e-88d5660f151c.png)
+
